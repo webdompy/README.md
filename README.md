@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Hey there! I’m Supriyo, a student at IIEST Shibpur. I’m currently pursuing my degree in engineering and I’m passionate about learning new things.<br><<br>- 📚 I'm currently learning ML/AI<br></p>
 
 ###
 
